@@ -4,3 +4,5 @@ html/swf file is under /bin-debug directory
 2) Shift+Click to mark/unmark a cell
 
 
+test
+
